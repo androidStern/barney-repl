@@ -1,0 +1,15 @@
+{
+  "name": "barney-repl",
+  "version": "0.0.2",
+  "description": "A embeded multi-line-able coffee-script runner.",
+  "main": "barney-repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Stern",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.7.1",
+    "through2": "^0.5.1"
+  }
+}
